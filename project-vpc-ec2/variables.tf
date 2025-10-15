@@ -1,3 +1,3 @@
 variable "cidr" {
-  default = "192.168.0.0/16"
+  default = "192.167.0.0/16"
 }
